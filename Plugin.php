@@ -3,7 +3,7 @@
  * 自动向百度提交链接，访客越多，收录量越大。
  * @package AutoBaiduSubmit
  * @author JinFeiJie
- * @version 1.0.0
+ * @version 1.0.2
  * @link http://jinfeijie.cn
  */
 /* 激活插件方法 */
